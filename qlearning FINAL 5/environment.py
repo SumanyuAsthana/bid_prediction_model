@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/content/gdrive/MyDrive/freelancer-narender-s-261121/qlearning FINAL 5')
+sys.path.append(<FOLDER PATH>)
 from agent import agent
 from dataPrep2 import *
 class env():
