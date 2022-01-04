@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/content/gdrive/MyDrive/freelancer-narender-s-261121/qlearning FINAL 5')
+sys.path.append(<FOLDER PATH>)
 from util import Util
 import numpy as np
 import pandas as pd
